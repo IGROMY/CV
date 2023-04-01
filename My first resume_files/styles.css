@@ -1,0 +1,23 @@
+.aside {
+background-color: #eeeeee;
+    width: 350px;
+    height: 500px;
+}
+.sek{
+    background-color: beige;
+    width: 700px;
+    height: 100px;
+}
+.sekO{
+    background-color: beige;
+    width: 700px;
+    height: 200px;
+}
+.sekL{
+    background-color: beige;
+    width: 700px;
+    height: 120px;
+}
+.item{
+    padding-left: 20px;
+}
