@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e63a311-989e-4bf6-b9e7-8722c1d371b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CV_3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/.idea/CV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/My first resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/assets/MY.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/gitBaseCommand.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/index_html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CV_3/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlexBox_1/FlexBox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlexBox_1/stylesFB.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlexBox_2/FB_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlexBox_2/styleFB2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlexBox_3/FB_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlexBox_3/styleFB3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlexBox_4/FB_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlexBox_4/styleFB4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CV.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My first resume.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitBaseCommand.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_html.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680711097943</updated>
       <workItem from="1680711099581" duration="7077000" />
-      <workItem from="1680950679948" duration="14403000" />
+      <workItem from="1680950679948" duration="14814000" />
     </task>
     <servers />
   </component>
