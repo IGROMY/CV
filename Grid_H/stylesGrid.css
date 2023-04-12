@@ -56,7 +56,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
-   
+
 }
 .header-button{
     font-size: 1.2em;
@@ -65,7 +65,7 @@
     color: black;
     cursor: pointer;
     background-color: #eed1ab;
-  
+
 }
 .header-button:hover{
 
@@ -83,17 +83,17 @@
     grid-row: 2/8;
     grid-column: 9/11;
     padding: 0.5em;
-  
+
 }
 
 h1{
-    font-family: Arial, serif; 
+    font-family: Arial, serif;
 }
 h3{
-    font-family: Arial, serif; 
+    font-family: Arial, serif;
 }
 .aside-list{
-   justify-self: center;
+    justify-self: center;
 }
 .aside-store{
     display: grid;
@@ -112,7 +112,7 @@ h3{
     cursor: pointer;
     color: rgb(0, 0, 0);
     background-color:#dbbb7e;
-    
+
 }
 .aside-button:hover{
     background-color: rgb(206, 224, 201);
@@ -144,14 +144,14 @@ h3{
     grid-row: 2/14;
 }
 .main-img{
-   
+
     width: 30em;
     height: 22em;
     padding: 4em 1em 1em;
 
 }
 .main-description{
-    
+
     display: grid;
     grid-column: 1/3;
     padding: 1em;
@@ -162,7 +162,7 @@ h3{
     display: grid;
     font-family: Arial, serif;
     font-size: 18px;
-   /* padding: 0.5em;*/
+    /* padding: 0.5em;*/
 }
 .footer{
     display: grid;
@@ -182,9 +182,9 @@ h3{
 
 }
 .footer-h3{
-   grid-column: 7 ;
-   padding: 0.5em;
-    
+    grid-column: 7 ;
+    padding: 0.5em;
+
 }
 .footer-connection{
     display: grid;
@@ -204,7 +204,7 @@ h3{
     padding: 0.5em;
 }
 .insta:hover{
-    transform: scale(1.2);   
+    transform: scale(1.2);
 }
 
 @media screen and (max-width: 1590px){
@@ -226,12 +226,12 @@ h3{
 
 }
 @media screen and (max-width: 850px){
-     .input{
+    .input{
         width: 15em;
         height: 2em;
     }
-   
-    
+
+
     .main-list{
         display: grid;
         grid-row: 2;
@@ -247,7 +247,7 @@ h3{
     .header{
         display:grid;
         grid-template-columns: 1fr 1fr;
-       /* background-color: #e58d49;*/
+        /* background-color: #e58d49;*/
         grid-column: 1/13;
     }
     .logo{
@@ -257,20 +257,20 @@ h3{
         margin: 0.4em;
         grid-row: 2;
     }.input{
-        width: 25em;
-        height: 2em;
-    }
+         width: 25em;
+         height: 2em;
+     }
     .aside-store{
         gap: 0.5em;
     }
-   
+
     .header-button{
         grid-row: 2;
     }
-     .aside{
+    .aside{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-       /* background-color: #edcf98;*/
+        /* background-color: #edcf98;*/
         grid-row: 14;
         grid-column: 1/13;
     }
@@ -278,7 +278,7 @@ h3{
         display: grid;
         justify-items: center;
         grid-row: 2;
-    
+
     }
     .store1{
         grid-column: 1/3;
@@ -305,7 +305,7 @@ h3{
     .main{
         grid-column: 1/13;
     }
-   
+
     .footer{
         grid-column: 1/13;
         grid-row: 15;
@@ -319,7 +319,7 @@ h3{
     .header{
         display:grid;
         grid-template-rows: 1fr 1fr 1fr;
-       /* background-color: #e58d49;*/
+        /* background-color: #e58d49;*/
         grid-column: 1/13;
     }
     .search{
