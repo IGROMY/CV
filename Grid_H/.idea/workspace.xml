@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="798afecb-d0b1-45d6-877f-f0a9dfc83588" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeGrid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesGrid.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesGrid.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -47,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681314875076</updated>
-      <workItem from="1681314876575" duration="91000" />
+      <workItem from="1681314876575" duration="196000" />
     </task>
     <servers />
   </component>
