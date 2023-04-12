@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f0ebaae-b50b-4871-ba32-088058704a7c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS GRID/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS GRID/.idea/CSS GRID.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS GRID/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS GRID/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS GRID/HomeGrid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS GRID/stylesGrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV_3/My first resume.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/.idea/GRID.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/HomeGrid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/assets/elem.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/assets/instagC.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/assets/iphone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/assets/mtc.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/assets/onliner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/assets/tehno.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/assets/vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GRID/stylesGrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LESSONS/lesson_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LESSONS/lesson_5/.idea/lesson_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LESSONS/lesson_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LESSONS/lesson_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LESSONS/lesson_5/lesson5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LESSONS/lesson_5/styles5.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OKcLve9Ta8VLbN49J7Yd2uj1hs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f0ebaae-b50b-4871-ba32-088058704a7c" name="Changes" comment="" />
+      <created>1681312663203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681312663203</updated>
+      <workItem from="1681312665512" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
